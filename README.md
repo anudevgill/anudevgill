@@ -6,7 +6,7 @@ class UndergraduateStudent:
     interests = [
                  'cybersecurity',
                  'software design',
-                 'machine learning and ai'
+                 'machine learning and AI'
                 ]
     
     def hobbies(self):
