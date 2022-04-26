@@ -10,7 +10,7 @@ class UndergraduateStudent:
                 ]
     
     def hobbies(self):
-        WatchingSoccer()
+        Soccer()
         PlayingTheGuitar()
         Cycling()
 ```
