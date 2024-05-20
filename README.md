@@ -4,7 +4,7 @@
 class UndergraduateStudent:
     name = 'Anudev Gill'
     interests = [
-                 'cybersecurity',
+                 'hardware systems',
                  'software design',
                  'machine learning and AI'
                 ]
