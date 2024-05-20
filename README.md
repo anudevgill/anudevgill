@@ -4,9 +4,9 @@
 class UndergraduateStudent:
     name = 'Anudev Gill'
     interests = [
-                 'hardware systems',
                  'software design',
-                 'machine learning and AI'
+                 'machine learning and AI',
+                 'hardware systems'
                 ]
     
     def hobbies(self):
